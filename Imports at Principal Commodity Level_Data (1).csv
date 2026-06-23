@@ -1,4 +1,4 @@
-Date (date),State Name (state_name),State Code (state_code),Export Country (country),Port for Import (port),Principle Commodity Code (pc_code),Commodity Name (commodity),Quantity Unit Measurement (units),Value of commodity quantity (quantity),Value of commodity quantity in USD (dollars_value),Value of commodity quantity in INR (inr_value)
+Date (date),State Name (state_name),State Code (state_code),Import Country (country),Port for Import (port),Principle Commodity Code (pc_code),Commodity Name (commodity),Quantity Unit Measurement (units),Value of commodity quantity (quantity),Value of commodity quantity in USD (dollars_value),Value of commodity quantity in INR (inr_value)
 "2022-07-01","Karnataka","29","Japan","Bangalore Airport","M3","Auto Components/Parts","None","0.0","293866.0","23392220.0"
 "2023-06-01","Tamil Nadu","33","Italy","Chennai Epz","ZZ","Other Commodities","None","0.0","165.0","13575.0"
 "2022-11-01","Maharashtra","27","Lebanon","Icd Tumb","L3","Iron And Steel","Ton","260.0","116267.0","9511892.0"
