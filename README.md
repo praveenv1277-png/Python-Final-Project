@@ -1,10 +1,6 @@
 # 📊 Imports at Principal Commodity Level_Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
