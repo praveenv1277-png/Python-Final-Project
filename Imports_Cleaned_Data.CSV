@@ -1,0 +1,501 @@
+Date (date),State Name (state_name),State Code (state_code),Import Country (country),Port for Import (port),Principle Commodity Code (pc_code),Commodity Name (commodity),Quantity Unit Measurement (units),Value of commodity quantity (quantity),Value of commodity quantity in USD (dollars_value),Value of commodity quantity in INR (inr_value)
+2022-07-01,Karnataka,29,Japan,Bangalore Airport,M3,Auto Components/Parts,,0.0,293866.0,23392220.0
+2023-06-01,Tamil Nadu,33,Italy,Chennai Epz,ZZ,Other Commodities,,0.0,165.0,13575.0
+2022-11-01,Maharashtra,27,Lebanon,Icd Tumb,L3,Iron And Steel,Ton,260.0,116267.0,9511892.0
+2024-05-01,Tamil Nadu,33,U S A,Chennai Air,I6,Essential Oils,Kgs,4456.0,470818.0,39265954.0
+2021-08-01,Andhra Pradesh,28,Kuwait,Visakhapatnam Sea,F2,Bulk Minerals And Ores,Kgs,488350.0,526571.0,39063490.0
+2024-01-01,Andhra Pradesh,28,Netherland,Visakhapatnam Spl Economic Zon,M3,Auto Components/Parts,,0.0,723.0,60057.0
+2024-01-01,Tamil Nadu,33,U Arab Emts,Tuticorin Sea,J9,"Paper, Paper Board And Product",,0.0,5317.0,441995.0
+2022-07-01,Delhi,7,Ecuador,Delhi Air,E4,Floricltr Products,Kgs,8.0,1095.0,87180.0
+2022-09-01,Maharashtra,27,New Zealand,Mumbai Air,M8,Medical And Scientific Instrum,,0.0,11183.0,897229.0
+2022-05-01,Telangana,36,Germany,Devi S Laboratories Ltd,L4,Products Of Iron And Steel,,0.0,51.0,3945.0
+2022-12-01,Kerala,32,Thailand,Cochin Sea,I9,Othr Rubber Prodct Excpt Footw,,0.0,347690.0,28671969.0
+2020-10-01,Telangana,36,U Arab Emts,Icd Hyderabad,L6,Copper And Prdcts Made Of Copr,,0.0,782336.0,57468913.0
+2020-03-01,Rajasthan,8,Hong Kong,Icd Kathuwas Alwar,P4,Telecom Instruments,,0.0,362260.0,26934254.0
+2020-12-01,Maharashtra,27,Russia,Mumbai Sea,L3,Iron And Steel,Ton,110.0,128871.0,9484052.0
+2018-02-01,Delhi,7,U S A,Delhi (Icd),K7,Packaging Materials,Ton,68.0,95580.0,6152861.0
+2021-08-01,Gujarat,24,Oman,Sez Mundra,S6,Petroleum Products,Ton,74236.0,48184598.0,3574555153.0
+2020-05-01,Tamil Nadu,33,Myanmar,Sipcot Trnsprt Gongai Kondon,E5,Natural Rubber,Ton,20.0,27583.0,2086946.0
+2019-02-01,Tamil Nadu,33,Singapore,Chennai Air,I5,Cosmetics And Toiletries,,0.0,76700.0,5462701.0
+2023-04-01,Haryana,6,Germany,Icd Garhiharsaru,J9,"Paper, Paper Board And Product",,0.0,619099.0,50778998.0
+2018-04-01,Tamil Nadu,33,Germany,Icd Tuticorin,N4,Electric Machinery And Equipme,,0.0,167368.0,10985393.0
+2018-06-01,Sikkim,11,China P Rp,Sherathang (Near Nathula Pass),R1,Rmg Of Othr Textle Matrl,,0.0,33694.0,2284200.0
+2023-11-01,Kerala,32,Germany,Cochin Airport,L2,Other Plastic Items,,0.0,28399.0,2365620.0
+2020-08-01,Gujarat,24,Egypt A Rp,"Hazira Port, Surat",H2,Fertilezers Crude,Ton,147820.0,8673180.0,647642842.0
+2019-06-01,Tamil Nadu,33,China P Rp,J Matadee Chennai,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,129769.0,9011025.0
+2023-04-01,Delhi,7,Czech Republic,Cfs Patparganj,N1,"Ac, Refrigeration Machnry Etc",,0.0,14631.0,1200038.0
+2018-05-01,Delhi,7,Korea Rp,Delhi Air,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,908734.0,61375371.0
+2022-05-01,Gujarat,24,Saudi Arab,Kandla Sea,I3,Organic Chemicals,Kgs,10849808.0,25989556.0,2009494295.0
+2022-11-01,Gujarat,24,Taiwan,Ahmedabad Air Cargo Complex,K6,Moulded And Extruded Goods,,0.0,3602.0,294718.0
+2019-12-01,Gujarat,24,Equtl Guinea,Sez Jamnagar (Reliance),S5,Petroleum: Crude,Ton,34654.0,18100782.0,1288641699.0
+2020-08-01,Maharashtra,27,Thailand,Nhava Sheva Sea,P1,Consumer Electronics,,0.0,256341.0,19141463.0
+2018-04-01,Maharashtra,27,Japan,Mumbai Air,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,185128.0,12151136.0
+2023-06-01,Punjab,3,Suriname,Htpl Kilaraipur Icd,L3,Iron And Steel,Ton,65.0,30086.0,2474105.0
+2019-02-01,Rajasthan,8,Malaysia,Icd Kathuwas Alwar,K8,Plastic Raw Materials,Ton,16.0,32900.0,2343190.0
+2018-10-01,Delhi,7,U K,Delhi Air,J9,"Paper, Paper Board And Product",,0.0,89551.0,6593820.0
+2018-08-01,Tamil Nadu,33,Finland,Sipct Ele Hw Hite Sez Oragadam,M7,Machine Tools,,0.0,3888.0,270416.0
+2023-03-01,Telangana,36,Brazil,Hyderabad Airport,H8,"Drug Formulations, Biologicals",Kgs,2.0,38153.0,3139584.0
+2018-06-01,Haryana,6,Germany,Icd Sonipat,ZZ,Other Commodities,,0.0,19360.0,1312450.0
+2023-08-01,Maharashtra,27,Sweden,Nhava Sheva Sea,M5,Accumulators And Batteries,,0.0,35895.0,2971612.0
+2020-01-01,Maharashtra,27,Denmark,Mumbai Air,N4,Electric Machinery And Equipme,,0.0,370894.0,26449841.0
+2021-08-01,Telangana,36,Denmark,Hyderabad Airport,L4,Products Of Iron And Steel,,0.0,1102.0,81773.0
+2022-04-01,Kerala,32,China P Rp,Sez Cochin,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,3632.0,276644.0
+2019-06-01,Andhra Pradesh,28,France,Visakhapatnam Sea,I2,Inorganic Chemicals,Kgs,101000.0,66775.0,4636800.0
+2021-03-01,Andhra Pradesh,28,Germany,Visakhapatnam Spl Economic Zon,O3,Pumps Of All Types,,0.0,97974.0,7131790.0
+2024-07-01,Maharashtra,27,South Africa,Mumbai Air,O1,Other Misc. Engineering Items,,0.0,55869.0,4670322.0
+2018-11-01,Gujarat,24,U S A,Mundra,D3,Cocoa Products,Kgs,445.0,1852.0,133071.0
+2019-06-01,Maharashtra,27,Saudi Arab,Nhava Sheva Sea,I2,Inorganic Chemicals,Kgs,2795.0,19780.0,1373522.0
+2024-06-01,Uttar Pradesh,9,Japan,Icd Noida-Dadri,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,1128.0,94154.0
+2022-04-01,Maharashtra,27,Czech Republic,"Arshiya Intl. Ftwz-Sez, Raigad",K6,Moulded And Extruded Goods,,0.0,222909.0,16978472.0
+2022-07-01,Tamil Nadu,33,U K,Acc Coimbatore,J9,"Paper, Paper Board And Product",,0.0,1038.0,82640.0
+2018-06-01,Telangana,36,Germany,Icd Hyderabad,M8,Medical And Scientific Instrum,,0.0,26417.0,1790881.0
+2021-06-01,Karnataka,29,Japan,Bangalore Airport,K4,Optical Items (Incl.Lens Etc),,0.0,16354.0,1202973.0
+2018-01-01,Uttar Pradesh,9,Saudi Arab,Cfs Albatross/Icd Dadri,L5,"Aluminium, Products Of Aluminm",Ton,485.0,850574.0,54127888.0
+2020-04-01,Tamil Nadu,33,Belgium,Chennai Sea,N4,Electric Machinery And Equipme,,0.0,606616.0,46246257.0
+2019-01-01,Karnataka,29,Austria,Bangalore Airport,M2,Oth Non Ferous Metal And Prodc,,0.0,668934.0,47315668.0
+2024-03-01,Gujarat,24,France,Ahmedabad Air Cargo Complex,I1,Surgicals,,0.0,8605.0,714187.0
+2019-10-01,Maharashtra,27,Saudi Arab,Nhava Sheva Sea,L8,"Nickel, Product Made Of Nickel",Ton,10.0,164482.0,11684704.0
+2023-05-01,Uttar Pradesh,9,China P Rp,Cfs Albatross/Icd Dadri,K9,"Plastc Sht, Film, Plts Etc",Kgs,139372.0,796154.0,65557961.0
+2018-05-01,Maharashtra,27,Malaysia,Nhava Sheva Sea,K4,Optical Items (Incl.Lens Etc),,0.0,32540.0,2197719.0
+2021-11-01,Tamil Nadu,33,Germany,Sipcot Perumdurai Meepz,O1,Other Misc. Engineering Items,,0.0,15350.0,1143541.0
+2022-08-01,Delhi,7,Hungary,Delhi Air,O9,"Computer Hardware, Peripherals",,0.0,22562.0,1794882.0
+2021-05-01,Uttar Pradesh,9,Austria,Icd Juhi Railway Yard Kanpur,M7,Machine Tools,,0.0,390229.0,28591200.0
+2022-03-01,Karnataka,29,France,Icd Bangalore,P2,Electronics Components,,0.0,266404.0,20311853.0
+2023-07-01,Andhra Pradesh,28,Vietnam Soc Rep,Apache Footware Nellore,I7,Residul Chemicl And Alled Prod,,0.0,2416.0,198474.0
+2023-11-01,Delhi,7,Netherland,Delhi Air,I1,Surgicals,,0.0,3541863.0,295030152.0
+2019-02-01,Punjab,3,Reunion,"Icd Sahnewal, Grfl",L3,Iron And Steel,Ton,569.0,170251.0,12125580.0
+2019-05-01,Delhi,7,Poland,Delhi (Icd),J6,Glass And Glassware,,0.0,17122.0,1194636.0
+2021-06-01,Haryana,6,China P Rp,Icd Sonipat,L6,Copper And Prdcts Made Of Copr,,0.0,1301.0,95721.0
+2018-06-01,Kerala,32,Nigeria,Cochin Sea,B2,Cashew,Ton,409.0,870177.0,58991964.0
+2023-06-01,Tamil Nadu,33,China P Rp,Chennai Air,O1,Other Misc. Engineering Items,,0.0,1676308.0,137849050.0
+2021-02-01,West Bengal,19,U Arab Emts,Kolkata Sea,K8,Plastic Raw Materials,Ton,3110.0,3612447.0,262829013.0
+2023-03-01,Tamil Nadu,33,Vietnam Soc Rep,Chennai Air,G3,Leather Footwear Component,Kgs,173.0,1933.0,159058.0
+2019-10-01,Delhi,7,U K,Delhi Air,O1,Other Misc. Engineering Items,,0.0,687960.0,48872271.0
+2024-03-01,West Bengal,19,Finland,Kolkata Air,N6,Indl. Machnry For Dairy Etc,,0.0,121560.0,10089128.0
+2023-06-01,Gujarat,24,Belgium,Mundra,N6,Indl. Machnry For Dairy Etc,,0.0,1962291.0,161366426.0
+2023-12-01,Kerala,32,Netherland,Cochin Sea,J2,"Paint, Varnish And Allid Prodc",Kgs,23242.0,129295.0,10767537.0
+2018-11-01,Tamil Nadu,33,Thailand,Kattupalli Port/ Tiruvallur,J6,Glass And Glassware,,0.0,95922.0,6892365.0
+2022-03-01,Haryana,6,Germany,Icd Garhiharsaru,K8,Plastic Raw Materials,Ton,57.0,219922.0,16767847.0
+2018-12-01,Kerala,32,Spain,Cochin Airport,I4,Other Miscellaenious Chemicals,Kgs,0.0,53.0,3760.0
+2018-08-01,Gujarat,24,Suriname,Kandla Sea,K2,Other Wood And Wood Products,,0.0,5531318.0,384683825.0
+2023-02-01,West Bengal,19,Germany,Kolkata Air,K4,Optical Items (Incl.Lens Etc),,0.0,72005.0,5948167.0
+2018-08-01,Maharashtra,27,Brazil,Nhava Sheva Sea,I3,Organic Chemicals,Kgs,442280.0,1041955.0,72464295.0
+2024-03-01,Kerala,32,U S A,Elec Tech Park 2 Thiruvanantha,O9,"Computer Hardware, Peripherals",,0.0,516.0,42789.0
+2019-03-01,Telangana,36,China P Rp,Hyderabad Airport,H3,Fertilezers Manufactured,Ton,0.0,1189.0,82623.0
+2018-08-01,Gujarat,24,Canada,"Hazira Port, Surat",F4,Processed Minerals,Kgs,128000.0,183181.0,12739584.0
+2021-01-01,Rajasthan,8,Senegal,Icd Thar Dry Port,L3,Iron And Steel,Ton,54.0,69173.0,5057232.0
+2022-06-01,Karnataka,29,China P Rp,Bangalore Airport,K1,Plywood And Allied Products,,0.0,32491.0,2536750.0
+2023-10-01,Delhi,7,Belgium,Delhi (Icd),I1,Surgicals,,0.0,223013.0,18562563.0
+2023-05-01,Gujarat,24,Portugal,Mundra,K1,Plywood And Allied Products,,0.0,145704.0,11997737.0
+2023-02-01,West Bengal,19,Bangladesh Pr,Chengrabandha Rly.Station,D5,Misc Processed Items,,0.0,840241.0,69411043.0
+2020-03-01,Karnataka,29,U S A,Hcltech Jiganiindarea Attibela,O9,"Computer Hardware, Peripherals",,0.0,2547.0,189375.0
+2019-03-01,Telangana,36,Japan,Devi S Laboratories Ltd,I3,Organic Chemicals,Kgs,38400.0,270209.0,18773760.0
+2019-09-01,West Bengal,19,Malaysia,Falta Epz,J6,Glass And Glassware,,0.0,1521897.0,108562561.0
+2019-04-01,Tamil Nadu,33,U S A,Chennai Epz,J9,"Paper, Paper Board And Product",,0.0,63504.0,4408937.0
+2022-08-01,Tamil Nadu,33,Greece,J Matadee Chennai,P3,Electronics Instruments,,0.0,96666.0,7690250.0
+2023-02-01,Tamil Nadu,33,Singapore,Tuticorin Sea,J9,"Paper, Paper Board And Product",,0.0,269352.0,22250810.0
+2020-09-01,Maharashtra,27,Vietnam Soc Rep,Nhava Sheva Sea,L3,Iron And Steel,Ton,515.0,894074.0,65698055.0
+2020-10-01,Tamil Nadu,33,Spain,Kattupalli Port/ Tiruvallur,P3,Electronics Instruments,,0.0,205020.0,15060399.0
+2022-07-01,Telangana,36,Sweden,Hyderabad Airport,M2,Oth Non Ferous Metal And Prodc,Kgs,3.0,161.0,12801.0
+2022-06-01,Delhi,7,Mexico,Delhi Air,I7,Residul Chemicl And Alled Prod,,0.0,5309.0,414506.0
+2018-11-01,Gujarat,24,Slovenia,"Pharma Dev By Zydus, Ahmedabad",H5,"Bulk Drugs, Drug Intermediates",Kgs,0.0,29.0,2079.0
+2023-01-01,Tamil Nadu,33,Norway,Chennai Sea,N6,Indl. Machnry For Dairy Etc,,0.0,45949.0,3763197.0
+2021-12-01,Karnataka,29,Portugal,Bangalore Airport,ZZ,Other Commodities,,0.0,2097.0,158032.0
+2019-06-01,Uttar Pradesh,9,Thailand,Cgml Dadri,J6,Glass And Glassware,,0.0,18809.0,1306066.0
+2022-07-01,Maharashtra,27,Singapore,"Arshiya Intl. Ftwz-Sez, Raigad",S6,Petroleum Products,Ton,44.0,89191.0,7099711.0
+2018-08-01,Haryana,6,Germany,Icd Garhiharsaru,M5,Accumulators And Batteries,,0.0,77445.0,5386004.0
+2023-11-01,Gujarat,24,China P Rp,Icd Kheda,H1,Sports Goods,,0.0,26470.0,2204894.0
+2019-09-01,Haryana,6,Singapore,"Unitech Realty, Gurgaon",O9,"Computer Hardware, Peripherals",,0.0,281372.0,20071310.0
+2022-08-01,Telangana,36,Mexico,Hyderabad Airport,N6,Indl. Machnry For Dairy Etc,,0.0,617.0,49121.0
+2019-02-01,Tamil Nadu,33,Germany,Chennai Epz,M8,Medical And Scientific Instrum,,0.0,1981.0,141122.0
+2024-01-01,Tamil Nadu,33,Israel,Chennai Sea,I7,Residul Chemicl And Alled Prod,,0.0,34986.0,2908030.0
+2018-05-01,Tamil Nadu,33,Korea Rp,Cheyyar Sez Cheeyar Tamilnadu,N6,Indl. Machnry For Dairy Etc,,0.0,18.0,1247.0
+2022-05-01,Telangana,36,U S A,Hyderabad Airport,Q8,Rmg Manmade Fibres,,0.0,718.0,55543.0
+2018-12-01,Telangana,36,U S A,Hyderabad Airport,G8,Other Precious And Base Metals,,0.0,1543.0,109162.0
+2021-08-01,Gujarat,24,Korea Rp,Sez Dahej,I3,Organic Chemicals,Kgs,48000.0,87826.0,6515328.0
+2019-05-01,Punjab,3,New Zealand,Icd Ludhiana,L5,"Aluminium, Products Of Aluminm",Ton,1.0,2056.0,143452.0
+2020-09-01,Maharashtra,27,Vietnam Soc Rep,Concor Icd/Mmlp Khapri Nagpur,K8,Plastic Raw Materials,Ton,44.0,30677.0,2254230.0
+2024-02-01,Haryana,6,Norway,Icd Garhiharsaru,J8,Newsprint,Ton,596.0,322439.0,26750711.0
+2022-06-01,Kerala,32,Turkey,Cochin Airport,R1,Rmg Of Othr Textle Matrl,,0.0,45.0,3499.0
+2022-08-01,Delhi,7,Japan,Cfs Patparganj,K7,Packaging Materials,Ton,0.0,98.0,7801.0
+2020-06-01,Maharashtra,27,Taiwan,Mumbai Air,N5,Ic Engines And Parts,,0.0,27536.0,2085251.0
+2022-04-01,Tamil Nadu,33,Korea Rp,J Matadee Chennai,L4,Products Of Iron And Steel,,0.0,843109.0,64217721.0
+2022-01-01,Gujarat,24,Turkey,Ahmedabad Air Cargo Complex,K6,Moulded And Extruded Goods,,0.0,156.0,11627.0
+2020-10-01,Delhi,7,Israel,Delhi Air,I1,Surgicals,,0.0,10896.0,800395.0
+2020-10-01,Gujarat,24,U Arab Emts,Mundra,J9,"Paper, Paper Board And Product",,0.0,507428.0,37274684.0
+2021-11-01,Maharashtra,27,Netherland,Mumbai Air,P2,Electronics Components,,0.0,3123178.0,232665744.0
+2022-12-01,Karnataka,29,U S A,Bangalore Airport,H5,"Bulk Drugs, Drug Intermediates",Kgs,193.0,173634.0,14318623.0
+2022-05-01,Uttar Pradesh,9,U K,Icd Pakwara Moradabad/Meerut,K8,Plastic Raw Materials,Ton,258.0,84564.0,6538419.0
+2020-05-01,Karnataka,29,U S A,"Kiadb Aerospace Sez,Bangalore",J7,"Books, Publications And Prntng",,0.0,62.0,4686.0
+2019-11-01,Maharashtra,27,China P Rp,Wipro Ltd Hinjewadi Pune,K6,Moulded And Extruded Goods,,0.0,242.0,17262.0
+2023-11-01,West Bengal,19,Hong Kong,Kolkata Sea,M7,Machine Tools,,0.0,9682.0,806501.0
+2021-09-01,Maharashtra,27,Netherland,Nhava Sheva Sea,K7,Packaging Materials,Ton,22.0,130892.0,9628800.0
+2023-04-01,Tamil Nadu,33,Korea Rp,Chennai Sea,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,2190583.0,179673392.0
+2019-08-01,Karnataka,29,U K,Bangalore Airport,I1,Surgicals,,0.0,18875.0,1342848.0
+2021-06-01,Telangana,36,Germany,Icd Hyderabad,L5,"Aluminium, Products Of Aluminm",Ton,8.0,81910.0,6025165.0
+2023-05-01,Tamil Nadu,33,Japan,Chennai Sea,O3,Pumps Of All Types,,0.0,1375637.0,113274489.0
+2021-08-01,Tamil Nadu,33,Thailand,Chennai Air,K8,Plastic Raw Materials,Ton,0.0,5408.0,401222.0
+2021-12-01,West Bengal,19,Vietnam Soc Rep,Kolkata Sea,L6,Copper And Prdcts Made Of Copr,,0.0,112368.0,8469459.0
+2021-11-01,West Bengal,19,France,Kolkata Air,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",,0.0,6623.0,493360.0
+2021-01-01,Uttar Pradesh,9,Italy,Sez Noida,I5,Cosmetics And Toiletries,,0.0,9732.0,711526.0
+2020-12-01,Delhi,7,China P Rp,Cfs Patparganj,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,1183758.0,87117040.0
+2019-05-01,Delhi,7,Finland,Delhi (Icd),Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,7098.0,495264.0
+2023-01-01,Haryana,6,China P Rp,"Icd Palwal, Bhagola-Janauli",H1,Sports Goods,,0.0,8305.0,680212.0
+2023-11-01,Tamil Nadu,33,Czech Republic,Acc Coimbatore,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,2250.0,187380.0
+2022-03-01,Tamil Nadu,33,Seychelles,Chennai Sea,L3,Iron And Steel,Ton,65.0,29932.0,2282142.0
+2018-04-01,Uttar Pradesh,9,Germany,Sez Noida,I5,Cosmetics And Toiletries,,0.0,11306.0,742060.0
+2021-02-01,Maharashtra,27,Germany,"Arshiya Intl. Ftwz-Sez, Raigad",I9,Othr Rubber Prodct Excpt Footw,,0.0,46798.0,3404830.0
+2019-04-01,Maharashtra,27,China P Rp,Mumbai Sea,M9,Office Equipments,,0.0,1777.0,123396.0
+2023-08-01,Tamil Nadu,33,U S A,Acc Coimbatore,N4,Electric Machinery And Equipme,,0.0,16703.0,1382839.0
+2019-04-01,Maharashtra,27,Japan,Nhava Sheva Sea,D1,Processed Fruits And Juices,Kgs,16180.0,30260.0,2100886.0
+2021-01-01,Tamil Nadu,33,Portugal,Chennai Air,P1,Consumer Electronics,,0.0,4838.0,353691.0
+2020-07-01,Maharashtra,27,Tanzania Rep,Mumbai Air,K6,Moulded And Extruded Goods,,0.0,1235.0,92629.0
+2021-10-01,Maharashtra,27,Egypt A Rp,Nhava Sheva Sea,H5,"Bulk Drugs, Drug Intermediates",Kgs,5650.0,148315.0,11111032.0
+2024-05-01,Gujarat,24,Japan,Ccil Icd Varnama,F4,Processed Minerals,Kgs,20000.0,41492.0,3460400.0
+2023-07-01,Uttar Pradesh,9,Indonesia,Cfs Startrack Dadri,I7,Residul Chemicl And Alled Prod,,0.0,11383.0,935173.0
+2020-10-01,Karnataka,29,U S A,Bangalore Airport,L5,"Aluminium, Products Of Aluminm",Ton,11.0,215743.0,15848056.0
+2018-03-01,Delhi,7,Netherland,Delhi Air,F9,Leather Goods,,0.0,3417.0,222183.0
+2022-12-01,Gujarat,24,U K,Mundra,N8,"Nucler Reactr, Indl Boilr, Prt",,0.0,301950.0,24900051.0
+2019-12-01,Karnataka,29,Netherland,Bangalore Airport,H8,"Drug Formulations, Biologicals",Kgs,9.0,21730.0,1547020.0
+2018-12-01,Tamil Nadu,33,Denmark,Chennai Air,J6,Glass And Glassware,,0.0,466.0,32965.0
+2023-08-01,Gujarat,24,Senegal,Mundra,L4,Products Of Iron And Steel,,0.0,33773.0,2795891.0
+2019-07-01,Karnataka,29,Taiwan,Bangalore Airport,M7,Machine Tools,,0.0,199087.0,13698834.0
+2019-12-01,Karnataka,29,Turkey,Bangalore Airport,J5,Ceramics And Allied Products,,0.0,33994.0,2420114.0
+2021-02-01,Andhra Pradesh,28,Thailand,Brandix Indiaapparel Pvt Ltd,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,1999.0,145465.0
+2021-04-01,Haryana,6,Korea Rp,Icd Garhiharsaru,L3,Iron And Steel,Ton,381.0,536697.0,39969042.0
+2018-11-01,Bihar,10,Nepal,Raxaul Land,B9,Oil Meals,Ton,1175.0,442849.0,31820536.0
+2019-02-01,Andhra Pradesh,28,Netherland,Vishakhapatnam Airport,O1,Other Misc. Engineering Items,,0.0,41317.0,2942663.0
+2018-04-01,Rajasthan,8,U S A,Mahindra World City (Jaipur),J9,"Paper, Paper Board And Product",,0.0,4957.0,325383.0
+2024-02-01,Maharashtra,27,U S A,Icd Tumb,L3,Iron And Steel,Ton,3125.0,2163829.0,179519082.0
+2024-06-01,Telangana,36,Hungary,Icd Hyderabad,H7,Dyes,Kgs,50.0,762.0,63591.0
+2018-12-01,Tamil Nadu,33,Finland,Sipct Ele Hw Hite Sez Oragadam,P2,Electronics Components,,0.0,3131025.0,221460826.0
+2022-01-01,Tamil Nadu,33,Indonesia,Chennai Air,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,17111.0,1273786.0
+2021-05-01,Gujarat,24,Netherland,Ahmedabad Air Cargo Complex,L3,Iron And Steel,Ton,0.0,2426.0,177745.0
+2018-11-01,Karnataka,29,Canada,Bangalore Airport,N4,Electric Machinery And Equipme,,0.0,178159.0,12801504.0
+2022-08-01,Uttar Pradesh,9,Nepal,Nautanwa (Sonauli),J4,"Cmnt, Clinkr And Asbstos Cmnt",Ton,531.0,31017.0,2467586.0
+2021-01-01,Gujarat,24,Denmark,Mundra,M1,Zinc And Products Made Of Zinc,Ton,41.0,90312.0,6602652.0
+2024-05-01,Maharashtra,27,Germany,Nhava Sheva Sea,D3,Cocoa Products,Kgs,5937.0,166849.0,13915096.0
+2022-09-01,Uttar Pradesh,9,Italy,Icd Modinagar,J9,"Paper, Paper Board And Product",,0.0,32316.0,2592789.0
+2019-11-01,Tamil Nadu,33,Germany,Chennai Sea,N8,"Nucler Reactr, Indl Boilr, Prt",,0.0,57896.0,4136803.0
+2019-03-01,Maharashtra,27,Tunisia,Mumbai Air,L4,Products Of Iron And Steel,,0.0,8263.0,574100.0
+2018-08-01,Tamil Nadu,33,China P Rp,Kattupalli Port/ Tiruvallur,N3,"Cranes, Lifts And Winches",,0.0,3528189.0,245373218.0
+2022-04-01,Karnataka,29,Vietnam Soc Rep,Bangalore Airport,O2,Prime Mica And Mica Products,,0.0,13790.0,1050383.0
+2020-01-01,Maharashtra,27,Japan,Midc Phaltan Satara,N4,Electric Machinery And Equipme,,0.0,16674.0,1189099.0
+2019-02-01,Gujarat,24,Spain,Mundra,F3,"Granit, Natrl Stone And Prodct",Kgs,103000.0,21180.0,1508498.0
+2020-02-01,Gujarat,24,Korea Rp,Sez Dahej,I9,Othr Rubber Prodct Excpt Footw,,0.0,1020.0,72900.0
+2022-06-01,Tamil Nadu,33,Germany,Acc Coimbatore,L4,Products Of Iron And Steel,,0.0,12765.0,996599.0
+2021-11-01,Maharashtra,27,Latvia,Mumbai Air,M8,Medical And Scientific Instrum,,0.0,8861.0,660142.0
+2023-12-01,Maharashtra,27,Germany,Nhava Sheva Sea,L5,"Aluminium, Products Of Aluminm",Ton,369.0,2975732.0,247815050.0
+2024-03-01,Maharashtra,27,Taiwan,Gigaplex Estate Pvt Ltd,P1,Consumer Electronics,,0.0,12669.0,1051502.0
+2022-02-01,Maharashtra,27,China P Rp,Mumbai Sea,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",,0.0,93536.0,7015482.0
+2021-06-01,Andhra Pradesh,28,U Arab Emts,Visakhapatnam Spl Economic Zon,K6,Moulded And Extruded Goods,,0.0,1599.0,117597.0
+2024-02-01,Tamil Nadu,33,U S A,Tuticorin Sea,K8,Plastic Raw Materials,Ton,91.0,145842.0,12099557.0
+2024-02-01,Tamil Nadu,33,Netherland,Icd Irungattukottai,L5,"Aluminium, Products Of Aluminm",Ton,456.0,850003.0,70519342.0
+2019-10-01,Tamil Nadu,33,Ireland,Chennai Air,K9,"Plastc Sht, Film, Plts Etc",Kgs,120.0,4375.0,310831.0
+2019-03-01,Haryana,6,Korea Rp,Icd Garhiharsaru,M2,Oth Non Ferous Metal And Prodc,,0.0,43820.0,3044581.0
+2022-08-01,Maharashtra,27,Singapore,Mumbai Air,D2,Cereal Preparations,Ton,2.0,23956.0,1905785.0
+2021-06-01,Gujarat,24,U K,Sez Mundra,O3,Pumps Of All Types,,0.0,85802.0,6311451.0
+2018-12-01,Maharashtra,27,China P Rp,Mumbai Sea,M8,Medical And Scientific Instrum,,0.0,283051.0,20020519.0
+2022-01-01,Delhi,7,South Africa,Delhi Air,N5,Ic Engines And Parts,,0.0,491.0,36531.0
+2018-07-01,Karnataka,29,Italy,Bangalore Airport,K7,Packaging Materials,Ton,0.0,7428.0,510277.0
+2020-12-01,Kerala,32,China P Rp,Cochin Sea,R3,Handloom Products,,0.0,1814.0,133466.0
+2019-05-01,Maharashtra,27,Poland,Nhava Sheva Sea,P1,Consumer Electronics,,0.0,101388.0,7074145.0
+2020-08-01,Gujarat,24,Spain,Ahmedabad Air Cargo Complex,N4,Electric Machinery And Equipme,,0.0,35.0,2647.0
+2021-04-01,Delhi,7,China P Rp,Delhi (Icd),R3,Handloom Products,,0.0,669.0,49829.0
+2020-01-01,Assam,18,Bangladesh Pr,Sutarkandi,N9,Other Construction Machinery,,0.0,32885.0,2345132.0
+2022-07-01,Tamil Nadu,33,China P Rp,Chennai Sea,H9,Agro Chemicals,Kgs,144100.0,872859.0,69480980.0
+2021-08-01,Gujarat,24,Chile,Mundra,C7,Fresh Fruits,Ton,358.0,909572.0,67476220.0
+2024-03-01,West Bengal,19,Switzerland,Kolkata Air,P2,Electronics Components,,0.0,12268.0,1018197.0
+2018-04-01,Delhi,7,Austria,Delhi Air,K6,Moulded And Extruded Goods,,0.0,72439.0,4754639.0
+2021-05-01,Karnataka,29,Denmark,Bangalore Airport,O1,Other Misc. Engineering Items,,0.0,86303.0,6323229.0
+2023-08-01,Punjab,3,Norway,Icd Chowpayal,L6,Copper And Prdcts Made Of Copr,,0.0,54811.0,4537537.0
+2018-06-01,Andhra Pradesh,28,Canada,Ramki Pharma City (India) Pvt,O1,Other Misc. Engineering Items,,0.0,4181.0,283455.0
+2018-04-01,Tamil Nadu,33,Malaysia,Sipct Hitechcity Sriperumbudur,O9,"Computer Hardware, Peripherals",,0.0,2268868.0,148920112.0
+2023-05-01,Karnataka,29,Germany,Icd Bangalore,O9,"Computer Hardware, Peripherals",,0.0,3772.0,310631.0
+2022-03-01,Delhi,7,China P Rp,Delhi Air,O3,Pumps Of All Types,,0.0,229240.0,17478314.0
+2022-06-01,Maharashtra,27,Slovak Rep,Mumbai Air,P3,Electronics Instruments,,0.0,29472.0,2301012.0
+2020-07-01,Uttar Pradesh,9,U Arab Emts,Cfs Startrack Dadri,N6,Indl. Machnry For Dairy Etc,,0.0,34964.0,2622038.0
+2022-01-01,Delhi,7,Korea Rp,Cfs Patparganj,M8,Medical And Scientific Instrum,,0.0,110933.0,8258034.0
+2021-06-01,Gujarat,24,U Arab Emts,Sez Mundra,F3,"Granit, Natrl Stone And Prodct",Kgs,413000.0,83361.0,6131930.0
+2021-10-01,Maharashtra,27,Japan,Nhava Sheva Sea,P5,Project Goods,Kgs,102935.0,305035.0,22851793.0
+2023-05-01,Karnataka,29,Singapore,Icd Bangalore,S6,Petroleum Products,Ton,1.0,59731.0,4918414.0
+2018-05-01,Tamil Nadu,33,Germany,Acc Coimbatore,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,6247.0,421923.0
+2023-05-01,Punjab,3,Singapore,Icd Chowpayal,L3,Iron And Steel,Ton,208.0,98929.0,8146177.0
+2022-11-01,Tamil Nadu,33,China P Rp,Icd Hosur,N4,Electric Machinery And Equipme,,0.0,1464120.0,119780398.0
+2019-12-01,Maharashtra,27,U S A,Nhava Sheva Sea,G2,Footwear Of Leather,,0.0,156761.0,11160193.0
+2024-01-01,Tamil Nadu,33,Mauritius,Tuticorin Sea,P8,"Cotton Fabrics, Madeups Etc.",,0.0,19756.0,1642114.0
+2020-03-01,Tamil Nadu,33,Turkey,Mahindra City Auto Anci Sez Tn,O1,Other Misc. Engineering Items,,0.0,39043.0,2902845.0
+2018-12-01,Kerala,32,China P Rp,Cochin Sea,P1,Consumer Electronics,,0.0,719409.0,50884560.0
+2019-01-01,Madhya Pradesh,23,China P Rp,Icd  Pithampur  (Indore),M7,Machine Tools,,0.0,3424.0,242186.0
+2023-04-01,Gujarat,24,Norway,"Hazira Port, Surat",I2,Inorganic Chemicals,Kgs,20000.0,110957.0,9100800.0
+2019-11-01,Maharashtra,27,U Arab Emts,Mumbai Air,I3,Organic Chemicals,Kgs,15.0,3289.0,235004.0
+2021-10-01,Tamil Nadu,33,Germany,Chennai Air,I3,Organic Chemicals,Kgs,1532.0,43997.0,3296056.0
+2021-01-01,Haryana,6,Netherland,Icd Garhiharsaru,L3,Iron And Steel,Ton,1150.0,1039706.0,76012260.0
+2022-07-01,Kerala,32,Poland,Vrindavan Tech Village Cochin,P2,Electronics Components,,0.0,2064.0,164300.0
+2022-01-01,Uttar Pradesh,9,Germany,Cfs Startrack Dadri,I3,Organic Chemicals,Kgs,120000.0,381162.0,28374300.0
+2022-11-01,Maharashtra,27,Netherland,"Arshiya Intl. Ftwz-Sez, Raigad",P8,"Cotton Fabrics, Madeups Etc.",,0.0,932.0,76245.0
+2019-01-01,Maharashtra,27,Indonesia,Nhava Sheva Sea,F2,Bulk Minerals And Ores,,0.0,194309.0,13744063.0
+2018-03-01,Maharashtra,27,Hong Kong,Manjri Stud Farm Phursungi,P4,Telecom Instruments,,0.0,2592.0,168555.0
+2022-06-01,Tamil Nadu,33,Germany,Sipcot Perumdurai Meepz,N7,"Atm, Injctng Mlding Mchnry Etc",Kgs,34.0,4671.0,364671.0
+2024-05-01,Gujarat,24,Korea Rp,Sez Kandla,H5,"Bulk Drugs, Drug Intermediates",Kgs,0.0,2528.0,210875.0
+2023-03-01,Delhi,7,Canada,Delhi Air,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,120820.0,9942162.0
+2024-01-01,Rajasthan,8,Italy,Icd Kanakpura,J2,"Paint, Varnish And Allid Prodc",Kgs,2350.0,12982.0,1079111.0
+2023-05-01,Haryana,6,Turkey,Icd Sonipat,Q5,"Wollen Yarn,Fabrics,Madeupsetc",,0.0,25979.0,2139192.0
+2022-12-01,Delhi,7,Thailand,Delhi (Icd),O9,"Computer Hardware, Peripherals",,0.0,159740.0,13172858.0
+2022-12-01,West Bengal,19,U Arab Emts,Kolkata Air,L4,Products Of Iron And Steel,,0.0,6099.0,502919.0
+2020-03-01,Karnataka,29,Hong Kong,Bangalore Airport,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,188238.0,13995645.0
+2018-11-01,Rajasthan,8,Unspecified,Fpo Jaipur,N4,Electric Machinery And Equipme,,0.0,2672.0,191991.0
+2019-02-01,Gujarat,24,Austria,Ahmedabad Air Cargo Complex,N6,Indl. Machnry For Dairy Etc,,0.0,44297.0,3154906.0
+2018-05-01,Delhi,7,Japan,Cfs Patparganj,L6,Copper And Prdcts Made Of Copr,,0.0,132487.0,8948084.0
+2021-06-01,Telangana,36,U S A,Hyderabad Airport,L3,Iron And Steel,Ton,2.0,128936.0,9484315.0
+2019-09-01,Kerala,32,Japan,"Gopalan Enterprise Sez, Cochin",N4,Electric Machinery And Equipme,,0.0,376.0,26813.0
+2022-03-01,Tamil Nadu,33,Korea Rp,J Matadee Chennai,N4,Electric Machinery And Equipme,,0.0,1481647.0,112967435.0
+2019-02-01,West Bengal,19,Philippines,Kolkata Sea,L3,Iron And Steel,Ton,72.0,22420.0,1596812.0
+2021-09-01,Kerala,32,Japan,Cochin Sea,N5,Ic Engines And Parts,,0.0,312083.0,22957909.0
+2020-08-01,Delhi,7,Taiwan,Cfs Patparganj,O3,Pumps Of All Types,,0.0,87693.0,6548238.0
+2018-12-01,West Bengal,19,Malaysia,Kolkata Sea,K6,Moulded And Extruded Goods,,0.0,20811.0,1471996.0
+2020-01-01,Tamil Nadu,33,U Arab Emts,Chennai Air,H8,"Drug Formulations, Biologicals",Kgs,0.0,0.0,24.0
+2018-05-01,Tamil Nadu,33,Germany,Tuticorin Sea,N6,Indl. Machnry For Dairy Etc,,0.0,3331014.0,224974708.0
+2022-06-01,Gujarat,24,U Arab Emts,Ahmedabad Air Cargo Complex,M7,Machine Tools,,0.0,954.0,74462.0
+2022-03-01,Haryana,6,U S A,Icd Patli,N5,Ic Engines And Parts,,0.0,5572.0,424849.0
+2022-12-01,Delhi,7,Italy,Delhi Air,O2,Prime Mica And Mica Products,,0.0,41765.0,3444163.0
+2023-10-01,West Bengal,19,Hong Kong,Kolkata Sea,O2,Prime Mica And Mica Products,,0.0,3334.0,277494.0
+2018-02-01,Maharashtra,27,Brazil,Mumbai Air,L2,Other Plastic Items,,0.0,115993.0,7466910.0
+2020-08-01,Gujarat,24,Turkey,"Hazira Port, Surat",I2,Inorganic Chemicals,Kgs,6636200.0,1745805.0,130362588.0
+2020-09-01,Maharashtra,27,Singapore,Pune Embassy Project Ltd Seepz,S1,Handcrfs(Excl.Handmade Crpts),,0.0,40085.0,2945506.0
+2023-05-01,Telangana,36,Belgium,Hyderabad Airport,H7,Dyes,Kgs,0.0,187.0,15402.0
+2023-10-01,Haryana,6,Korea Rp,Icd Garhiharsaru,N6,Indl. Machnry For Dairy Etc,,0.0,1561.0,129906.0
+2019-06-01,Kerala,32,Italy,Cochin Sea,N6,Indl. Machnry For Dairy Etc,,0.0,147159.0,10218560.0
+2018-08-01,Tamil Nadu,33,Sudan,Chennai Sea,ZZ,Other Commodities,,0.0,15058.0,1047213.0
+2021-04-01,Tamil Nadu,33,Belgium,Suzlon Ap Infra Sez Coimbatore,N5,Ic Engines And Parts,,0.0,2605.0,194029.0
+2019-12-01,West Bengal,19,U K,Kolkata Air,P4,Telecom Instruments,,0.0,76359.0,5436224.0
+2024-04-01,Gujarat,24,Qatar,Sez Jamnagar (Reliance),S5,Petroleum: Crude,Ton,62272.0,44014003.0,3671031951.0
+2022-02-01,Delhi,7,Portugal,Delhi Air,F8,Finished Leather,Kgs,916.0,65657.0,4924442.0
+2019-07-01,Tamil Nadu,33,Singapore,"Elec Crop Of Tn,Vilankuriehi",L4,Products Of Iron And Steel,,0.0,127.0,8718.0
+2018-04-01,Maharashtra,27,Indonesia,Nhava Sheva Sea,J2,"Paint, Varnish And Allid Prodc",Kgs,935586.0,1653397.0,108522841.0
+2022-06-01,Maharashtra,27,Malaysia,Nhava Sheva Sea,F3,"Granit, Natrl Stone And Prodct",Kgs,208.0,809.0,63203.0
+2021-03-01,Maharashtra,27,China P Rp,Mumbai Air,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,304922.0,22196123.0
+2022-02-01,Tamil Nadu,33,Austria,Suzlon Ap Infra Sez Coimbatore,O1,Other Misc. Engineering Items,,0.0,7190.0,539241.0
+2022-03-01,Maharashtra,27,Hungary,Mumbai Air,I7,Residul Chemicl And Alled Prod,,0.0,701.0,53498.0
+2022-07-01,Maharashtra,27,Korea Rp,Concor Icd/Mmlp Khapri Nagpur,I2,Inorganic Chemicals,Kgs,77000.0,141284.0,11246428.0
+2021-08-01,Tamil Nadu,33,Denmark,Chennai Air,I2,Inorganic Chemicals,Kgs,155.0,17776.0,1318675.0
+2022-10-01,Haryana,6,China P Rp,"Icd Palwal, Bhagola-Janauli",S1,Handcrfs(Excl.Handmade Crpts),,0.0,4088.0,336595.0
+2024-07-01,West Bengal,19,U S A,Kolkata Air,P2,Electronics Components,,0.0,293351.0,24522600.0
+2022-12-01,Maharashtra,27,Malaysia,Mumbai Air,H8,"Drug Formulations, Biologicals",Kgs,0.0,203.0,16769.0
+2020-09-01,Tamil Nadu,33,Vietnam Soc Rep,Icd Tuticorin,L4,Products Of Iron And Steel,,0.0,7377.0,542108.0
+2023-03-01,Punjab,3,U S A,Icd Chowpayal,J9,"Paper, Paper Board And Product",,0.0,186110.0,15314712.0
+2022-08-01,West Bengal,19,U S A,Kolkata Air,I7,Residul Chemicl And Alled Prod,,0.0,31215.0,2483312.0
+2018-12-01,Andhra Pradesh,28,U S A,Visakhapatnam Sea,I4,Other Miscellaenious Chemicals,Kgs,36288.0,50247.0,3554002.0
+2019-06-01,Delhi,7,Poland,Cfs Patparganj,L5,"Aluminium, Products Of Aluminm",Ton,0.0,956.0,66407.0
+2021-08-01,Maharashtra,27,Romania,Mumbai Air,P1,Consumer Electronics,,0.0,48929.0,3629755.0
+2019-01-01,Kerala,32,U S A,Cochin Airport,M3,Auto Components/Parts,,0.0,3455.0,244405.0
+2020-10-01,Maharashtra,27,Singapore,Magarpatta Town Devp Sez Pune,P4,Telecom Instruments,,0.0,42461.0,3119092.0
+2022-08-01,Maharashtra,27,Mexico,Nhava Sheva Sea,K6,Moulded And Extruded Goods,,0.0,10283.0,818098.0
+2023-01-01,Karnataka,29,Italy,Bangalore Airport,I4,Other Miscellaenious Chemicals,Kgs,1760.0,494481.0,40497760.0
+2023-05-01,Delhi,7,Bangladesh Pr,Delhi Air,F8,Finished Leather,Kgs,12506.0,201559.0,16597031.0
+2023-08-01,Madhya Pradesh,23,Germany,Icd Dhannad,J9,"Paper, Paper Board And Product",,0.0,36745.0,3041955.0
+2023-10-01,Tamil Nadu,33,France,Icd Irungattukottai,N6,Indl. Machnry For Dairy Etc,,0.0,417.0,34739.0
+2020-08-01,Maharashtra,27,Brazil,Nhava Sheva Sea,O6,"Railwy Trnsprt Equipmnts, Prts",,0.0,71427.0,5333569.0
+2019-08-01,Karnataka,29,Italy,Icd Bangalore,K1,Plywood And Allied Products,,0.0,430509.0,30628886.0
+2024-01-01,Delhi,7,Sweden,Delhi Air,L5,"Aluminium, Products Of Aluminm",Ton,0.0,4959.0,412207.0
+2023-10-01,Tamil Nadu,33,New Zealand,Icd Tuticorin,J9,"Paper, Paper Board And Product",,0.0,88152.0,7337329.0
+2021-08-01,Maharashtra,27,Czech Republic,Mumbai Air,I3,Organic Chemicals,Kgs,1.0,44173.0,3276976.0
+2018-03-01,Telangana,36,Netherland,Icd Hyderabad,I2,Inorganic Chemicals,Kgs,80140.0,58671.0,3814882.0
+2019-02-01,Rajasthan,8,Bangladesh Pr,Icd Kanakpura,K8,Plastic Raw Materials,Ton,1245.0,625584.0,44555245.0
+2022-07-01,Tamil Nadu,33,U S A,Mahindra City Auto Anci Sez Tn,P8,"Cotton Fabrics, Madeups Etc.",,0.0,91.0,7231.0
+2019-01-01,Karnataka,29,Croatia,Bangalore Airport,N4,Electric Machinery And Equipme,,0.0,26552.0,1878115.0
+2021-01-01,Maharashtra,27,Albania,Nhava Sheva Sea,I6,Essential Oils,Kgs,10.0,459.0,33542.0
+2023-03-01,Gujarat,24,Germany,Mundra,N1,"Ac, Refrigeration Machnry Etc",,0.0,164638.0,13547857.0
+2019-06-01,Delhi,7,China P Rp,Cfs Patparganj,M5,Accumulators And Batteries,,0.0,817555.0,56770098.0
+2023-06-01,Maharashtra,27,Japan,Nhava Sheva Sea,J7,"Books, Publications And Prntng",,0.0,93085.0,7654718.0
+2020-09-01,Telangana,36,U S A,Hyderabad Airport,J5,Ceramics And Allied Products,,0.0,7756.0,569923.0
+2024-02-01,Gujarat,24,Thailand,Ahmedabad Air Cargo Complex,P2,Electronics Components,,0.0,3025004.0,250965234.0
+2024-07-01,Maharashtra,27,Singapore,Mumbai Air,ZZ,Other Commodities,,0.0,1570493.0,131284828.0
+2018-11-01,Karnataka,29,Germany,Bangalore Airport,N6,Indl. Machnry For Dairy Etc,,0.0,5675460.0,407805614.0
+2023-11-01,Tamil Nadu,33,Thailand,J Matadee Chennai,L4,Products Of Iron And Steel,,0.0,5224.0,435145.0
+2023-04-01,Telangana,36,Benin,Icd Hyderabad,K1,Plywood And Allied Products,,0.0,45004.0,3691229.0
+2018-10-01,Andhra Pradesh,28,Uruguay,Visakhapatnam Sea,S6,Petroleum Products,Ton,18.0,1439.0,105960.0
+2019-12-01,Delhi,7,Germany,Delhi (Icd),K8,Plastic Raw Materials,Ton,304.0,666185.0,47427429.0
+2018-02-01,Goa,30,Congo P Rep,Marmagoa Sea,L3,Iron And Steel,Ton,243.0,74040.0,4766248.0
+2024-02-01,Maharashtra,27,China P Rp,Nhava Sheva Sea,J6,Glass And Glassware,,0.0,33169376.0,2751850825.0
+2021-02-01,Kerala,32,U S A,Sez Cochin,I9,Othr Rubber Prodct Excpt Footw,,0.0,4751.0,345683.0
+2020-02-01,Rajasthan,8,Germany,Icd Kathuwas Alwar,J9,"Paper, Paper Board And Product",,0.0,66171.0,4730477.0
+2021-06-01,Telangana,36,Italy,Icd Hyderabad,S1,Handcrfs(Excl.Handmade Crpts),,0.0,219623.0,16155121.0
+2022-08-01,Gujarat,24,China P Rp,Sez Mundra,F4,Processed Minerals,Kgs,162000.0,47187.0,3753975.0
+2018-04-01,Delhi,7,Switzerland,Delhi (Icd),K1,Plywood And Allied Products,,0.0,32246.0,2116516.0
+2024-01-01,Maharashtra,27,Sweden,Icd Tumb,I3,Organic Chemicals,Kgs,20000.0,28380.0,2359000.0
+2021-08-01,Maharashtra,27,South Africa,Mumbai Air,N1,"Ac, Refrigeration Machnry Etc",,0.0,4986.0,369866.0
+2021-02-01,Tamil Nadu,33,Brazil,Chennai Air,L4,Products Of Iron And Steel,,0.0,96783.0,7041594.0
+2021-06-01,Haryana,6,Netherland,"Icd Palwal, Bhagola-Janauli",L6,Copper And Prdcts Made Of Copr,,0.0,264138.0,19429489.0
+2018-06-01,Karnataka,29,Sri Lanka Dsr,Bangalore Airport,R1,Rmg Of Othr Textle Matrl,,0.0,21094.0,1430003.0
+2023-07-01,Maharashtra,27,Portugal,Mumbai Air,K4,Optical Items (Incl.Lens Etc),,0.0,9011.0,740268.0
+2021-07-01,Gujarat,24,Germany,Ahmedabad Air Cargo Complex,O3,Pumps Of All Types,,0.0,88919.0,6626881.0
+2018-06-01,Karnataka,29,Spain,Bangalore Airport,K8,Plastic Raw Materials,Ton,0.0,2120.0,143726.0
+2019-10-01,Maharashtra,27,Nigeria,Mumbai Air,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,148.0,10494.0
+2023-06-01,Telangana,36,Malaysia,Icd Hyderabad,P3,Electronics Instruments,,0.0,22158.0,1822144.0
+2020-08-01,Tamil Nadu,33,Sweden,Chennai Air,N1,"Ac, Refrigeration Machnry Etc",,0.0,22844.0,1705809.0
+2018-08-01,Karnataka,29,Australia,Bangalore Airport,N4,Electric Machinery And Equipme,,0.0,31201.0,2169915.0
+2023-09-01,Uttar Pradesh,9,Nepal,Nautanwa (Sonauli),K7,Packaging Materials,Ton,13.0,17268.0,1434053.0
+2024-05-01,Delhi,7,U S A,Delhi Air,J3,"Graphite, Explsivs And Accesor",Kgs,209.0,4846.0,404128.0
+2020-11-01,Delhi,7,Spain,Cfs Patparganj,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,34503.0,2560786.0
+2019-03-01,Maharashtra,27,U S A,Mumbai Air,M8,Medical And Scientific Instrum,,0.0,20959835.0,1456260026.0
+2018-05-01,Haryana,6,U K,"Icd Palwal, Bhagola-Janauli",J9,"Paper, Paper Board And Product",,0.0,1897627.0,128164575.0
+2024-02-01,Maharashtra,27,Netherland,Seepz,J9,"Paper, Paper Board And Product",,0.0,3.0,272.0
+2023-08-01,Gujarat,24,U S A,Sez Jamnagar (Reliance),S5,Petroleum: Crude,Ton,282.0,134520965.0,11136371917.0
+2021-09-01,Maharashtra,27,China P Rp,"Arshiya Intl. Ftwz-Sez, Raigad",M7,Machine Tools,,0.0,303.0,22320.0
+2018-05-01,Delhi,7,Australia,Cfs Patparganj,N6,Indl. Machnry For Dairy Etc,,0.0,6074.0,410258.0
+2023-03-01,Uttar Pradesh,9,Japan,Icd Noida-Dadri,ZZ,Other Commodities,,0.0,575.0,47341.0
+2019-03-01,Kerala,32,Korea Rp,Cochin Airport,N6,Indl. Machnry For Dairy Etc,,0.0,10646.0,739671.0
+2022-08-01,Delhi,7,Portugal,Delhi Air,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,2007.0,159645.0
+2018-05-01,Delhi,7,Belgium,Delhi (Icd),S2,Carpet(Excl. Silk) Handmade,Sqm,11820.0,194866.0,13161112.0
+2018-05-01,Maharashtra,27,Philippines,Nhava Sheva Sea,L4,Products Of Iron And Steel,,0.0,422897.0,28562231.0
+2019-11-01,Andhra Pradesh,28,Malaysia,Visakhapatnam Spl Economic Zon,P3,Electronics Instruments,,0.0,237851.0,16994885.0
+2023-07-01,Gujarat,24,Germany,Epz/Sez Surat,M7,Machine Tools,,0.0,511.0,42015.0
+2021-11-01,Punjab,3,Indonesia,Icd Ludhiana,Q3,"Manmade Yarn,Fabrics,Madeups",,0.0,1058713.0,78870411.0
+2024-06-01,Karnataka,29,Thailand,Bangalore Airport,I8,Auto Tyres And Tubes,,0.0,7427.0,619973.0
+2023-06-01,Delhi,7,U Arab Emts,Delhi Air,P3,Electronics Instruments,,0.0,53143.0,4369985.0
+2019-08-01,Uttar Pradesh,9,Australia,Icd Loni,J9,"Paper, Paper Board And Product",,0.0,176631.0,12566562.0
+2018-01-01,Maharashtra,27,U S A,Mumbai Air,M7,Machine Tools,,0.0,625549.0,39808027.0
+2021-05-01,Maharashtra,27,U K,Nhava Sheva Sea,G4,Saddlery And Harness,Kgs,286.0,22074.0,1617335.0
+2021-05-01,Gujarat,24,Indonesia,Icd Sabarmati,J9,"Paper, Paper Board And Product",,0.0,37873.0,2774904.0
+2020-07-01,Haryana,6,Indonesia,Icd Garhiharsaru,P4,Telecom Instruments,,0.0,501834.0,37634254.0
+2024-01-01,Andhra Pradesh,28,Thailand,Apache Footware Nellore,F8,Finished Leather,Kgs,59843.0,1759866.0,146281798.0
+2022-08-01,West Bengal,19,Hong Kong,Kolkata Air,P1,Consumer Electronics,,0.0,120536.0,9589299.0
+2018-03-01,Delhi,7,Austria,Delhi Air,N6,Indl. Machnry For Dairy Etc,,0.0,537558.0,34952688.0
+2018-06-01,Tamil Nadu,33,China P Rp,Etl Infra  It Sez Kancheep Tn,P8,"Cotton Fabrics, Madeups Etc.",,0.0,3850.0,260971.0
+2020-10-01,Karnataka,29,Philippines,Bangalore Airport,K6,Moulded And Extruded Goods,,0.0,43.0,3182.0
+2022-11-01,Maharashtra,27,Baharain Is,Nhava Sheva Sea,B1,Spices,Kgs,6450.0,15384.0,1258594.0
+2020-12-01,Telangana,36,Austria,Hyderabad Airport,M2,Oth Non Ferous Metal And Prodc,,0.0,30313.0,2230812.0
+2023-04-01,Andhra Pradesh,28,U S A,Sundew Properties It Sez Ap,N4,Electric Machinery And Equipme,,0.0,909.0,74532.0
+2019-03-01,Maharashtra,27,Slovenia,Nhava Sheva Sea,L4,Products Of Iron And Steel,,0.0,1837423.0,127661570.0
+2022-03-01,Maharashtra,27,Hong Kong,Eon Kharadi  Sez  Pune Maharas,O9,"Computer Hardware, Peripherals",,0.0,4238.0,323088.0
+2023-03-01,Telangana,36,U K,Hyderabad Airport,H7,Dyes,Kgs,1.0,358.0,29425.0
+2022-10-01,Tamil Nadu,33,U K,Ennore Sea,K9,"Plastc Sht, Film, Plts Etc",Kgs,2.0,117.0,9652.0
+2020-02-01,Tamil Nadu,33,Chile,Tuticorin Sea,D2,Cereal Preparations,Ton,391.0,226905.0,16221124.0
+2021-07-01,Bihar,10,Nepal,Raxaul Land,Q7,Rmg Silk,,0.0,625.0,46602.0
+2020-08-01,Karnataka,29,France,Quest Sez Balgaom Karnataka,ZZ,Other Commodities,,0.0,8.0,565.0
+2018-06-01,Tamil Nadu,33,U S A,Sipct Ele Hw Hite Sez Oragadam,I9,Othr Rubber Prodct Excpt Footw,,0.0,3244.0,219952.0
+2020-12-01,Gujarat,24,Italy,Mundra,B1,Spices,Kgs,245.0,259.0,19045.0
+2021-03-01,Punjab,3,Singapore,Icd Ludhiana,P6,Manmade Staple Fibre,Kgs,100320.0,92680.0,6746420.0
+2020-05-01,West Bengal,19,China P Rp,Falta Epz,K6,Moulded And Extruded Goods,,0.0,23687.0,1792122.0
+2018-03-01,Karnataka,29,China P Rp,Icd Bangalore,P4,Telecom Instruments,,0.0,3828190.0,248913881.0
+2020-11-01,Gujarat,24,Hong Kong,"Pharma Dev By Zydus, Ahmedabad",M8,Medical And Scientific Instrum,,0.0,13040.0,967828.0
+2023-08-01,Uttar Pradesh,9,Germany,Icd Juhi Railway Yard Kanpur,H7,Dyes,Kgs,100.0,1765.0,146094.0
+2021-02-01,Gujarat,24,Jordan,"Hazira Port, Surat",I2,Inorganic Chemicals,Kgs,1264160.0,590701.0,42977307.0
+2020-03-01,Tamil Nadu,33,New Zealand,Chennai Air,F8,Finished Leather,Kgs,236.0,8925.0,663565.0
+2020-08-01,Uttar Pradesh,9,Germany,Icd Noida-Dadri,L3,Iron And Steel,Ton,6.0,29629.0,2212474.0
+2018-11-01,Tamil Nadu,33,Vietnam Soc Rep,Chennai Air,F8,Finished Leather,Kgs,4453.0,114991.0,8262594.0
+2019-07-01,Maharashtra,27,Tanzania Rep,Nhava Sheva Sea,L6,Copper And Prdcts Made Of Copr,,0.0,808162.0,55608225.0
+2021-02-01,Maharashtra,27,Latvia,Mumbai Air,H8,"Drug Formulations, Biologicals",Kgs,2.0,11210.0,815595.0
+2021-08-01,Delhi,7,U S A,Cfs Patparganj,I2,Inorganic Chemicals,Kgs,18992.0,140406.0,10415940.0
+2020-11-01,Kerala,32,Vietnam Soc Rep,Cochin Sea,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",,0.0,35630.0,2644477.0
+2024-02-01,Maharashtra,27,Spain,Mumbai Air,E4,Floricltr Products,Kgs,437.0,13178.0,1093269.0
+2018-04-01,Tamil Nadu,33,Canada,Chennai Sea,J5,Ceramics And Allied Products,,0.0,42503.0,2789756.0
+2024-07-01,Telangana,36,Netherland,Hyderabad Airport,O3,Pumps Of All Types,,0.0,35803.0,2992913.0
+2021-01-01,Tamil Nadu,33,U S A,Kattupalli Port/ Tiruvallur,M3,Auto Components/Parts,,0.0,12037.0,880047.0
+2024-06-01,Karnataka,29,Poland,Bangalore Airport,M7,Machine Tools,,0.0,18938.0,1580832.0
+2018-02-01,Haryana,6,Germany,Icd Garhiharsaru,L5,"Aluminium, Products Of Aluminm",Ton,127.0,497297.0,32012913.0
+2019-10-01,Tamil Nadu,33,U Arab Emts,Chennai Air,O4,"Aircraft, Spacecraft And Parts",,0.0,1941.0,137896.0
+2024-03-01,West Bengal,19,Thailand,Kolkata Sea,J6,Glass And Glassware,,0.0,18577.0,1541826.0
+2022-03-01,Delhi,7,Germany,Delhi Air,M2,Oth Non Ferous Metal And Prodc,Kgs,3760.0,191497.0,14600603.0
+2019-11-01,Karnataka,29,Netherland,Bangalore Airport,I9,Othr Rubber Prodct Excpt Footw,,0.0,22288.0,1592543.0
+2021-05-01,Punjab,3,Thailand,"Icd Sahnewal, Grfl",D5,Misc Processed Items,,0.0,21426.0,1569859.0
+2020-03-01,Delhi,7,Thailand,Cfs Patparganj,I5,Cosmetics And Toiletries,,0.0,22248.0,1654146.0
+2019-01-01,Tamil Nadu,33,Netherland,Chennai Air,Q6,Rmg Cotton Incl Accessories,,0.0,17931.0,1268284.0
+2021-05-01,Delhi,7,U Arab Emts,Delhi Air,M8,Medical And Scientific Instrum,,0.0,519703.0,38077449.0
+2020-10-01,Rajasthan,8,Spain,Jaipur A.C.,ZZ,Other Commodities,,0.0,30.0,2180.0
+2023-03-01,Karnataka,29,Swaziland,Bangalore Airport,J9,"Paper, Paper Board And Product",,0.0,176.0,14470.0
+2018-01-01,Kerala,32,China P Rp,Cochin Sea,J7,"Books, Publications And Prntng",,0.0,740.0,47089.0
+2022-05-01,Delhi,7,Turkey,Delhi (Icd),Q6,Rmg Cotton Incl Accessories,,0.0,9.0,731.0
+2018-02-01,Andhra Pradesh,28,Singapore,Sundew Properties It Sez Ap,ZZ,Other Commodities,,0.0,1002.0,64500.0
+2018-09-01,Karnataka,29,Germany,Bangalore Airport,O3,Pumps Of All Types,,0.0,2479528.0,179059829.0
+2023-08-01,Maharashtra,27,Brazil,Nhava Sheva Sea,P9,"Oth Txtl Yrn, Fbric Mdup Artcl",,0.0,1237.0,102419.0
+2023-05-01,Maharashtra,27,Romania,Nhava Sheva Sea,P2,Electronics Components,,0.0,11476.0,944953.0
+2018-11-01,Maharashtra,27,China P Rp,Nhava Sheva Sea,F2,Bulk Minerals And Ores,,0.0,73082.0,5251270.0
+2021-09-01,Maharashtra,27,Finland,Nhava Sheva Sea,I4,Other Miscellaenious Chemicals,Kgs,14000.0,42784.0,3147312.0
+2020-08-01,Uttarakhand,5,Netherland,Icd Sandkheda Kashipur,J9,"Paper, Paper Board And Product",,0.0,40846.0,3050057.0
+2021-10-01,Haryana,6,U Arab Emts,Icd Patli,B8,Vegetable Oils,Ton,12.0,26044.0,1951098.0
+2022-02-01,Delhi,7,U S A,Delhi Air,E8,Iron Ore,Ton,0.0,661.0,49565.0
+2023-07-01,Maharashtra,27,U S A,Midc Kesurdi Satara,F6,Other Crude Minerals,Kgs,76000.0,118352.0,9722832.0
+2019-03-01,Tamil Nadu,33,Singapore,Icd Irungattukottai,P1,Consumer Electronics,,0.0,202839.0,14093003.0
+2018-07-01,Uttar Pradesh,9,Singapore,Sez Noida,O9,"Computer Hardware, Peripherals",,0.0,135335.0,9296620.0
+2024-07-01,Delhi,7,Switzerland,Delhi Air,G6,Gold,Kgs,1800.0,139035231.0,11622608464.0
+2020-01-01,West Bengal,19,Luxembourg,Kolkata Air,ZZ,Other Commodities,,0.0,3868.0,275839.0
+2020-11-01,Delhi,7,Unspecified,Delhi Air,K9,"Plastc Sht, Film, Plts Etc",Kgs,1050.0,61757.0,4583593.0
+2023-02-01,Tamil Nadu,33,U Arab Emts,Chennai Sea,I5,Cosmetics And Toiletries,Kgs,274478.0,332421.0,27460801.0
+2020-11-01,Delhi,7,Malaysia,Delhi (Icd),Q6,Rmg Cotton Incl Accessories,,0.0,25198.0,1870201.0
+2018-01-01,Tamil Nadu,33,Denmark,Chennai Sea,J5,Ceramics And Allied Products,,0.0,10386.0,660936.0
+2024-04-01,Maharashtra,27,Denmark,Mumbai Air,G2,Footwear Of Leather,,0.0,7553.0,629966.0
+2023-08-01,Andhra Pradesh,28,Mozambique,Visakhapatnam Sea,F1,"Coal,Coke And Briquittes Etc",Ton,125030.0,16517550.0,1367412009.0
+2023-12-01,Puducherry,34,Hong Kong,Icd Pondicherry,P3,Electronics Instruments,,0.0,379261.0,31584336.0
+2019-08-01,Maharashtra,27,Netherland,Nhava Sheva Sea,M6,"Hnd Tool, Cttng Tool Of Metals",,0.0,97906.0,6965625.0
+2022-05-01,Tamil Nadu,33,China P Rp,Flextronics Techn Sez  Sriperu,P8,"Cotton Fabrics, Madeups Etc.",,0.0,7798.0,602916.0
+2023-08-01,Kerala,32,Korea Dp Rp,Cessana Business Park Cochin,P4,Telecom Instruments,,0.0,57524.0,4762109.0
+2018-05-01,Gujarat,24,U S A,Ahmedabad Air Cargo Complex,N5,Ic Engines And Parts,,0.0,2350.0,158704.0
+2018-05-01,Tamil Nadu,33,Hong Kong,Chennai Sea,M5,Accumulators And Batteries,,0.0,4792423.0,323677364.0
+2023-09-01,Maharashtra,27,Australia,Mumbai Air,P8,"Cotton Fabrics, Madeups Etc.",,0.0,247.0,20530.0
+2018-07-01,Gujarat,24,Turkey,Icd Sabarmati,L3,Iron And Steel,Ton,103.0,66581.0,4573657.0
+2023-06-01,Karnataka,29,U Arab Emts,Bangalore Airport,O4,"Aircraft, Spacecraft And Parts",,0.0,167414.0,13767100.0
+2019-11-01,Maharashtra,27,Thailand,Nhava Sheva Sea,I2,Inorganic Chemicals,Kgs,4311100.0,2659975.0,190059746.0
+2020-11-01,Gujarat,24,Korea Rp,Mundra,I9,Othr Rubber Prodct Excpt Footw,,0.0,801545.0,59490490.0
+2023-07-01,Kerala,32,U K,Cochin Airport,O3,Pumps Of All Types,,0.0,13793.0,1133152.0
+2018-11-01,West Bengal,19,U S A,Kolkata Air,L3,Iron And Steel,Ton,0.0,9638.0,692555.0
+2024-07-01,Maharashtra,27,Mexico,Nhava Sheva Sea,P4,Telecom Instruments,,0.0,561.0,46937.0
+2020-06-01,West Bengal,19,Korea Rp,Kolkata Air,O3,Pumps Of All Types,,0.0,2252.0,170539.0
+2021-08-01,Gujarat,24,Malaysia,"Hazira Port, Surat",K8,Plastic Raw Materials,Ton,142.0,176253.0,13075187.0
+2019-01-01,Tamil Nadu,33,U Arab Emts,Sipct Ele Hw Hite Sez Oragadam,P2,Electronics Components,,0.0,4146.0,293271.0
+2018-05-01,Maharashtra,27,Korea Rp,Mumbai Air,J2,"Paint, Varnish And Allid Prodc",Kgs,11935.0,162893.0,11001727.0
+2021-04-01,Maharashtra,27,Vietnam Soc Rep,Nhava Sheva Sea,L4,Products Of Iron And Steel,,0.0,9949425.0,740955581.0
+2022-04-01,Uttar Pradesh,9,Vietnam Soc Rep,"Icd Panki, Up",I2,Inorganic Chemicals,Kgs,605000.0,74015.0,5637578.0
+2020-03-01,Maharashtra,27,Netherland,Gigaplex Estate Pvt Ltd,O1,Other Misc. Engineering Items,,0.0,1565.0,116390.0
+2021-06-01,Maharashtra,27,Denmark,Mumbai Air,O9,"Computer Hardware, Peripherals",,0.0,7619.0,560419.0
+2024-04-01,West Bengal,19,Australia,Kolkata Air,O4,"Aircraft, Spacecraft And Parts",,0.0,5303.0,442323.0
+2023-09-01,Tamil Nadu,33,U K,Chennai Sea,J5,Ceramics And Allied Products,,0.0,2230.0,185230.0
+2023-04-01,Maharashtra,27,U Arab Emts,Icd Tarapur (Mahagaon),L3,Iron And Steel,Ton,1060.0,2268643.0,186075957.0
+2020-01-01,Kerala,32,Netherland,Cochin Sea,D5,Misc Processed Items,,0.0,2382.0,169861.0
+2020-12-01,Haryana,6,Turkey,Icd Garhiharsaru,Q8,Rmg Manmade Fibres,,0.0,116893.0,8602592.0
+2023-10-01,Uttar Pradesh,9,Spain,"Icd Panki, Up",J8,Newsprint,Ton,207.0,110464.0,9194540.0
+2018-05-01,Rajasthan,8,Thailand,Sez Sitapura Jaipur,G7,Silver,Kgs,100.0,64989.0,4389341.0
+2023-07-01,Maharashtra,27,Germany,Maha Airport Dev Corp Nagpur,O4,"Aircraft, Spacecraft And Parts",,0.0,22632.0,1859248.0
+2023-08-01,Tamil Nadu,33,Mexico,Chennai Sea,P2,Electronics Components,,0.0,31861.0,2637665.0
+2023-05-01,Gujarat,24,China P Rp,Sez Mundra,J6,Glass And Glassware,,0.0,827701.0,68155629.0
+2022-04-01,Tamil Nadu,33,Estonia,J Matadee Chennai,N4,Electric Machinery And Equipme,,0.0,55333.0,4214574.0
+2023-09-01,Tamil Nadu,33,Singapore,Chennai Sea,S6,Petroleum Products,Ton,52917.0,40512877.0,3364493119.0
+2019-07-01,Delhi,7,Malaysia,Delhi (Icd),O9,"Computer Hardware, Peripherals",,0.0,2347.0,161476.0
+2021-02-01,Haryana,6,Italy,"Icd Palwal, Bhagola-Janauli",L5,"Aluminium, Products Of Aluminm",Ton,20.0,31008.0,2256066.0
+2020-08-01,Delhi,7,Germany,Delhi Air,H8,"Drug Formulations, Biologicals",Kgs,1152.0,311297.0,23245129.0
+2022-05-01,Andhra Pradesh,28,China P Rp,M/S Ndr Infra Pvt. Ltd.,R9,Other Jute Manufactures,,0.0,3902.0,301683.0
+2023-09-01,Maharashtra,27,Hong Kong,Nhava Sheva Sea,N2,Bicycle And Parts,,0.0,36456.0,3027563.0
+2023-06-01,Maharashtra,27,Greece,Mumbai Air,I7,Residul Chemicl And Alled Prod,,0.0,9631.0,792005.0
+2021-04-01,Gujarat,24,Italy,Ahmedabad Air Cargo Complex,N3,"Cranes, Lifts And Winches",,0.0,9097.0,677491.0
+2023-08-01,Tamil Nadu,33,Slovak Rep,Chennai Air,I9,Othr Rubber Prodct Excpt Footw,,0.0,4851.0,401565.0
+2018-03-01,Tamil Nadu,33,Vietnam Soc Rep,Tuticorin Sea,I2,Inorganic Chemicals,Kgs,1503800.0,378031.0,24580088.0
+2018-05-01,Karnataka,29,Ireland,Bangalore Airport,D3,Cocoa Products,Kgs,389.0,7488.0,505743.0
+2023-11-01,Maharashtra,27,Russia,Nhava Sheva Sea,G5,"Pearl, Precs, Semiprecs Stones",,0.0,17175.0,1430623.0
+2023-03-01,Delhi,7,U S A,Delhi (Icd),R9,Other Jute Manufactures,,0.0,38008.0,3127624.0
+2023-04-01,Maharashtra,27,Japan,Mumbai Air,R1,Rmg Of Othr Textle Matrl,,0.0,626.0,51303.0
+2021-09-01,Kerala,32,Thailand,Sez Cochin,E5,Natural Rubber,Ton,105.0,148916.0,10954755.0
+2022-06-01,Maharashtra,27,Italy,Midc Kesurdi Satara,F9,Leather Goods,,0.0,3257.0,254303.0
+2019-10-01,Andhra Pradesh,28,U S A,"Apiic Sez Aerospace, Vizag",L8,"Nickel, Product Made Of Nickel",Ton,0.0,22766.0,1617303.0
+2018-05-01,Goa,30,Netherland,Marmagoa Sea,O1,Other Misc. Engineering Items,,0.0,392082.0,26480979.0
+2023-09-01,Rajasthan,8,Spain,Icd Jaipur,J8,Newsprint,Ton,698.0,402459.0,33423236.0
+2024-04-01,Tamil Nadu,33,China P Rp,"Icbp Pvt Ltd Ftwz Sez, Edayanc",ZZ,Other Commodities,,0.0,7607.0,634457.0
+2022-12-01,Gujarat,24,U Arab Emts,Sez Mundra,C7,Fresh Fruits,Ton,2720.0,1499774.0,123677615.0
+2020-05-01,Kerala,32,Taiwan,Cochin Airport,N4,Electric Machinery And Equipme,,0.0,24134.0,1825968.0
+2018-03-01,Tamil Nadu,33,Hungary,Chennai Sea,C9,Processed Vegetables,Kgs,2655.0,9432.0,613285.0
+2018-11-01,Uttar Pradesh,9,Germany,Icd Noida-Dadri,L3,Iron And Steel,Ton,25.0,69244.0,4975498.0
+2018-09-01,Gujarat,24,Japan,Icd Sabarmati,L4,Products Of Iron And Steel,,0.0,2562.0,185044.0
+2021-07-01,Rajasthan,8,Czech Republic,Icd Kanakpura,J2,"Paint, Varnish And Allid Prodc",Kgs,20000.0,50015.0,3727500.0
+2020-11-01,Telangana,36,South Africa,Icd Hyderabad,L5,"Aluminium, Products Of Aluminm",Ton,43.0,59887.0,4444820.0
+2024-06-01,West Bengal,19,Australia,Kolkata Air,O1,Other Misc. Engineering Items,,0.0,39664.0,3310815.0
+2023-03-01,Maharashtra,27,China P Rp,Mumbai Sea,ZZ,Other Commodities,,0.0,692820.0,57011206.0
+2021-06-01,Tamil Nadu,33,Vietnam Soc Rep,Chennai Air,P7,Cotton Yarn,Ton,0.0,351.0,25852.0
+2020-05-01,Punjab,3,U S A,Icd Ludhiana,P8,"Cotton Fabrics, Madeups Etc.",,0.0,5046.0,381773.0
+2019-02-01,Delhi,7,China P Rp,Delhi Air,Q9,Rmg Wool,,0.0,87410.0,6225532.0
+2023-08-01,Maharashtra,27,Turkey,Nhava Sheva Sea,B8,Vegetable Oils,Ton,8.0,50433.0,4175134.0
+2018-04-01,Delhi,7,U K,Delhi Air,P1,Consumer Electronics,,0.0,225980.0,14832472.0
+2024-06-01,Haryana,6,Dominic Rep,Icd Sonipat,L5,"Aluminium, Products Of Aluminm",Ton,80.0,153683.0,12828078.0
+2021-09-01,Gujarat,24,U S A,Sez Kandla,K8,Plastic Raw Materials,Ton,2712.0,1478791.0,108784880.0
+2021-04-01,Gujarat,24,Philippines,Ahmedabad Air Cargo Complex,P2,Electronics Components,,0.0,86428.0,6436516.0
+2021-06-01,Karnataka,29,Kenya,Newmangalore  Sea,A2,Coffee,Kgs,38400.0,53769.0,3955162.0
+2020-03-01,Gujarat,24,Vietnam Soc Rep,Pipavab(Vicyor),N7,"Atm, Injctng Mlding Mchnry Etc",,0.0,1739.0,129317.0
