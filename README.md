@@ -93,7 +93,7 @@ Imports at Principal Commodity Level Data
 - Port-wise Import Value
 - Top Commodities by Import Value
 
-### Dashboard Development
+# Dashboard Development
 
 Developed an interactive Power BI dashboard using:
 
@@ -168,8 +168,7 @@ Aspiring Data Analyst
 
 - Python
 - SQL
-- Power BI
 - Excel
+- Power BI
+- Tableau
 - Data Analytics
-
--
