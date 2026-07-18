@@ -42,15 +42,18 @@ The interactive Power BI dashboard enables users to monitor import performance, 
 
 **Dataset Name**
 
-Imports at Principal Commodity Level
+Imports at Principal Commodity Level Data
 
 **Dataset Features**
 
 - Date
 - State Name
+- state code
 - Country
 - Port
 - Commodity
+- commodity code
+- units
 - Quantity
 - Import Value (USD)
 - Import Value (INR)
