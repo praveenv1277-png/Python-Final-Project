@@ -146,40 +146,6 @@ This project successfully analyzed the **Imports at Principal Commodity Level** 
 
 ---
 
-# 📁 Project Structure
-
-```
-Imports-at-Principal-Commodity-Level-Data-Analysis
-│
-├── Dataset
-│   └── Imports_at_Principal_Commodity_Level.csv
-│
-├── Python
-│   └── Data_Analysis.ipynb
-│
-├── Power BI
-│   └── Import_Trade_Dashboard.pbix
-│
-├── Images
-│   └── Dashboard_Screenshot.png
-│
-└── README.md
-```
-
----
-
-# ▶️ How to Run the Project
-
-1. Download the dataset.
-2. Open the Jupyter Notebook.
-3. Run all Python cells for data cleaning and EDA.
-4. Save the cleaned dataset.
-5. Open the Power BI (.pbix) file.
-6. Refresh the data if required.
-7. Explore the interactive dashboard.
-
----
-
 # 👨‍💻 Author
 
 **Praveen V**
